@@ -2,7 +2,7 @@
   min-width: 1300px;
   height: 320px;
   /* 그라디언트를 반투명한 검은색으로 설정하여 이미지를 어둡게 표현 */
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/ex_home/img/banner.jpg) center/cover;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/banner.jpg) center top/cover;
   padding: 100px;
   box-sizing: border-box;
   text-align: center;
