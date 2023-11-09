@@ -72,7 +72,7 @@
 #about .largeImage{
   width:50%;
   height:520px;
-  background:url(/ex_home/img/about_me.jpg) center/cover;
+  background:url(../img/about_me.jpg) center/cover;
 }
 
 #about .txt{
